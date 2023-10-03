@@ -1,0 +1,2755 @@
+body,html
+    { 
+       
+       height:auto;
+        margin: 0;
+       }
+
+    .h2
+
+    {
+        margin-top:  !important;
+    margin-bottom: !important;
+    font-weight: !important;
+    line-height: !important;
+    }
+
+     .row
+  {
+    margin: 0!important;
+  }
+  .topformobile
+  {
+    display: none;
+  }
+
+ol
+{
+list-style:none;
+}
+
+	
+.banner
+		{
+			
+			width:100%;
+			height: 100vh;
+			background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url("https://bluearchio.com/wp-content/uploads/2020/07/bg-fallback-home7.jpg");
+			cursor: grab;
+			background-repeat: no-repeat;
+			  background-size: cover;
+			  background-position: center;
+			}
+.top 
+{
+cursor: auto;
+	box-shadow:0px 0.5px 0.1px 0px;
+	position:fixed;
+    left:0%;
+    right:0%;
+    padding-top: 2%;
+    margin-top: -3.5%;
+     background-color: #1E3667;
+     display: flex;
+    justify-content:space-between;
+}
+.top li
+{
+	cursor: pointer;
+  font-family: "Titillium Web", sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    list-style: none;
+    color:white;
+    padding-top: 0.4%;
+    margin-left: -29%;
+}
+
+.icon-bar i
+{
+  font-size: 32px;
+    padding-top: 20%;
+}
+
+.main_nav
+{
+
+	padding: 3.5% 0% 0% 10%;	
+   color:white;    	
+}
+.main_nav1
+{
+	list-style:none;
+	margin: -3% 0% 0% 4%;
+}
+
+.main_nav2
+{
+	display: flex;
+	justify-content:space-between;
+  margin: -1% 6% 0% -26%;
+
+}
+.main_nav2 img
+{
+	margin:0.5rem;
+  height: 2.5vh;
+  width:40%;
+	
+}
+
+.facebook
+{
+	border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #FFFFFF;
+	border-radius: 50%;
+	
+  padding: 5px;
+}
+
+.linkedin
+{
+	margin-left:rem;
+	border-radius: 50%;
+	 border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #FFFFFF;
+  padding: 5px;
+}
+
+.instagram
+{
+	border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #FFFFFF;
+	border-radius: 50%;
+	padding: 5px;
+}
+.youtube
+{
+	border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #FFFFFF;
+	border-radius: 50%;
+	padding: 5px;
+}
+ 
+.nav1
+{
+	font-size: 18PX;
+     color:#fff;
+	 padding: 16% 9% 0% 0%;
+     display: flex;
+     justify-content:center;	
+}
+
+ .nav2
+{
+	color:white;
+	display: flex;
+     justify-content:center;	
+     padding: 1% 9% 0% 0%;
+}
+
+.text
+{
+   text-decoration: none;
+	border-style:solid !important;
+	border: 1px;
+	border-color:white;
+	color: #fff !important;
+	justify-content:center;
+	display: flex;
+	padding:9px 20px 9px 20px;
+	 font-size: 20px;
+	}
+
+.main_nav1 img
+{
+ margin: 0% 0% -1% -22%;
+}
+
+ 
+
+.nav4
+{
+ display: flex;
+    justify-content: space;
+    color: white;
+    font-size: 1.5rem;
+    background-image: url(https://theratio.s3.amazonaws.com/images/bg1-home1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    padding: 7% 0% 5% 10%;
+    background-color: transparent;
+    background-image: linear-gradient(280deg, #197926 0%, #1E3667 100%);
+    width: auto;
+}
+
+.nav4i p
+{
+  color: #FFFFFF;
+    font-family: "Titillium Web", Sans-serif;
+    font-size: 27px;
+    font-weight: 300;
+    line-height: 48px;
+    margin-left: -5%;
+}
+
+.logo1
+{
+margin-top: -5%;
+height: 21vh;
+width: 98%;
+border-radius: 50%;
+}
+.nav4ii
+{
+margin: 2%;
+}
+.Sayantan
+{
+	margin-bottom: 6px;
+    color: #FFFFFF;
+    font-family: "Titillium Web", Sans-serif;
+    font-weight: 400;
+}
+
+.nav4iii
+{
+  padding: 5% 0% 0% 0%;
+}
+
+.nav4iii p
+{
+  color: #D0CFCF;
+    font-family: "Raleway", Sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.nav5
+{
+display:flex;
+justify-content:space-between ;
+padding: 0% 0% 10% 18%;
+}
+
+.nav5i
+{
+padding-top:11%;
+}
+
+.nav5i img
+ {
+   margin-left: -41%;
+ }
+
+.COMPANY
+ {
+  font-family: "Josefin Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: #9f9e9e;
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin: 0% 0% 0% 14%;
+ }
+
+
+.nav5ii
+{
+line-height: 3rem;
+margin: -46% 0% 22% 53%;
+    width: 33%;
+}
+.nav5ii h3
+{
+font-size: 40px;
+ letter-spacing: -3px;
+    font-weight: 100;
+  margin: 0% 0% 0% 14%;
+}
+
+.dot1
+ {
+  margin: 0% 0% 0% 14%;
+    font-weight: bold;
+ }
+
+.line1
+{
+	 
+    line-height: 24px;
+    font-size: 18.5px;
+    color: #555555;
+  margin: 0.5% 0% 0% 13.5%;
+    padding: 0px 0px 40px 0px;
+    width: 106%;
+}
+.nav5iii :hover
+{
+background-color: green;
+}
+
+.nav5iii a
+{
+text-decoration: none !important; 
+color:white !important;
+border-style: solid !important;
+border: 1px;
+background-color:#1E3667;
+font-size: 15px;
+padding: 20px 45px 20px 45px;
+}
+
+.nav5iii
+{
+	margin: -2% 0% 0% 13%;
+}
+
+.nav6
+{
+	justify-content:space-arround;
+	display: flex;
+}
+.nav6 img:hover
+{
+filter: brightness(130%);
+}
+.nav6 img
+{
+  box-sizing: border-box;
+height: auto;
+width:100%;
+
+    
+
+cursor:pointer;
+}
+.nav6i
+{
+	cursor:pointer;
+ 
+	color: white;
+	justify-content:center;
+	display: flex;
+margin-top: -28%;
+font-size: 40px;
+}
+
+.nav6ii
+	{
+		cursor:pointer;
+ 
+		color:white;
+	justify-content:center;
+	display: flex;
+margin-top: -28%;
+font-size: 40px;
+}
+
+.SERVICES
+ {
+ 	 margin: 11% 0% 0% 3%;
+ }
+
+.SERVICES span
+{
+	font-family: "Josefin Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: #9f9e9e;
+     margin-left: 45%;
+    letter-spacing: 0.5px;
+}
+
+.SERVICES h2
+ {
+ 	margin-bottom: 0;
+    line-height: 12px;
+    margin-left: 36.5%;
+        font-weight: 400;
+         font-size: 42px;
+         color: #2E8B57;
+         font-family: "Titillium Web", sans-serif;
+ }
+
+.dot  
+{
+	margin-right: 10rem;
+	 color: #2E8B57;
+	 font-weight: 500;
+	 font-size: 25px;
+    margin-left:46.5%;
+    line-height: 3;
+        margin-bottom: 2%;
+}
+
+.features-Interior 
+ {
+    background-image: url("https://theratio.s3.amazonaws.com/images/bg-iconbox1.jpg") ;
+    height: 115vh;
+    width: 39%;
+    display: flex;
+    justify-content:space-between;
+       margin-left: 11%;
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+
+ .features-Interior1
+ {
+  display: flex;
+    justify-content:space-between;
+ }
+
+  .features-Interior:hover
+ {
+  background-image: url("https://theratio.s3.amazonaws.com/images/bg-iconbox1-hover.jpg") ;
+ color:white;
+ box-shadow: 2px 2px black;
+}
+
+.icon-Interior
+ {
+   width: 74px;
+    height: 84px;
+    padding-left: 14rem;
+    padding-top: 3rem;
+ }
+
+.icon-Exterior
+ {
+   width: 74px;
+    height: 84px;
+    padding-left: 41%;
+    padding-top: 10%;
+ }
+
+
+.icon-Landscape
+ {
+   width: 74px;
+    height: 84px;
+    padding-left: 14rem;
+    padding-top: 3rem;
+ }
+
+
+
+.icon-Construction
+ {
+   width: 74px;
+    height: 84px;
+    padding-left: 14rem;
+    padding-top: 3rem;
+ }
+
+
+ .Interior-head p
+ {
+    
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    line-height: 1.875;
+    font-weight: 400;
+   color: #555555;
+    margin-right: 5rem;
+    margin-left: -15rem;
+    width: 408px;
+    margin-top: -1.5rem;
+ }
+
+.Construction-head p
+ {
+    
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    line-height: 1.875;
+    font-weight: 400;
+   color: #555555;
+    margin-right: 5rem;
+    margin-left: -15rem;
+    width: 408px;
+    margin-top: -1.5rem;
+ }
+
+
+
+.Exterior-head p
+ {
+    
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    line-height: 1.875;
+    font-weight: 400;
+   color: #555555;
+    margin-right: 5rem;
+    margin-left: 9%;
+    width: 408px;
+    margin-top: -1.5rem;
+ }
+
+
+.Landscape-head p
+ {
+    
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    line-height: 1.875;
+    font-weight: 400;
+   color: #555555;
+    margin-right: 5rem;
+    margin-left: -15rem;
+    width: 408px;
+    margin-top: -1.5rem;
+ }
+
+.features-Exterior
+ {
+   background-image: url("https://theratio.s3.amazonaws.com/images/bg-iconbox1.jpg") ;
+    height: 115vh;
+    width: 100%;
+       margin-left: 2%;
+     
+     
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+   
+    justify-content:space-between;
+
+
+ }
+ 
+.features-Exterior:hover
+ {
+   
+    
+  background-image: url("https://theratio.s3.amazonaws.com/images/bg-iconbox1-hover.jpg") ;
+  color:white;
+  box-shadow: 2px 2px black;
+
+ }
+
+.Exterior
+ {
+       margin: -27% 0% 0% 35%;
+ }
+
+ .features-Landscape
+ {
+    background-image: url("https://theratio.s3.amazonaws.com/images/bg-iconbox1.jpg") ;
+    height: 115vh;
+    width: 39%;
+    margin-left: 6rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+
+.features-Landscape
+{
+   display: flex;
+    justify-content:space-between;
+    margin-top: 1.5rem;
+    margin-left: 133px;
+    margin-right: 133px;
+}
+
+.features-Landscape2
+ {
+  display: flex;
+    justify-content:space-between;
+   }
+
+  .features-Landscape:hover
+ {
+   background-image: url("https://theratio.s3.amazonaws.com/images/bg-iconbox1-hover.jpg") ;
+  color:white;
+   box-shadow: 2px 2px black;
+}
+
+.Interior-head h5
+ {
+  margin-top: 9rem;
+    font-size: 21px;
+    margin-left: -12rem;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+     }
+   
+     .Construction-head h5
+ {
+  margin-top: 9rem;
+    font-size: 21px;
+    margin-left: -12rem;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+     }
+.Construction-head h5:hover
+{
+	color: white;
+}
+
+.Exterior-head h5
+ {
+  margin-top: 9rem;
+    font-size: 21px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+     
+    }
+ 
+ .Landscape-head h5
+ {
+  margin-top: 9rem;
+    font-size: 21px;
+    margin-left: -12rem;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+     
+    }
+ .features-Construction
+ {
+    background-image: url("https://theratio.s3.amazonaws.com/images/bg-iconbox1.jpg") ;
+    height: 124vh;
+    width: 100%;
+    margin-left: 0rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+.features-Construction2
+{
+   display: flex;
+    justify-content:space-between;
+    margin-top: 0rem;
+     }
+
+.features-Construction:hover
+ {
+   background-image: url("https://theratio.s3.amazonaws.com/images/bg-iconbox1-hover.jpg") ;
+   color: whitesmoke;
+    box-shadow: 2px 2px black;
+ }
+
+.blue h2
+
+ {
+      margin-bottom: 47px;
+    line-height: 12px;
+    margin-left: 30rem;
+        font-weight: 400;
+         font-size: 42px;
+         color:#197926;
+         font-family: "Titillium Web", sans-serif;
+         margin-top: 14rem;
+     }
+.features-Planning
+ {
+    background-image: url("https://bluearchio.com/wp-content/uploads/2020/06/bg1-home3.png") ;
+    height: 32vh;
+    width: 30%;
+   background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    border: 1px solid  #d3d3d3  ; 
+    display: flex;
+    justify-content:space-between;
+    margin-left: 3rem;
+}
+
+ .Quality-Planning
+ {
+    background-image: url("https://bluearchio.com/wp-content/uploads/2020/06/bg1-home3.png") ;
+    height: 32vh;
+    width: 30%;
+   background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    border: 1px solid  #d3d3d3  ; 
+    display: flex;
+    justify-content:space-between;
+    margin-left: 3rem;
+}
+
+.features-Planning:hover
+ {
+   transform:scale(1);
+  box-shadow: 0px 0px 15px 0px;
+  background-color: white;
+
+ }
+ .Quality-Planning:hover
+ {
+   transform:scale(1);
+  box-shadow: 0px 0px 15px 0px;
+  background-color: white;
+
+ }
+
+.icon-Planning
+ {
+   width: 74px;
+    height: 84px;
+    padding-left:7rem;
+    padding-top: 3rem;
+ }
+
+.Planning-head h5
+ {
+  margin-top: 8rem;
+    font-size: 20px;
+    margin-left: -15rem;
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    color: #1E3667;
+}
+
+ .Planning
+{
+  margin-left: 1.2rem; 
+}
+
+
+
+ 
+
+
+.second
+{
+   display: flex;
+    justify-content:space-between;
+    padding: 5px;
+    margin-left: -19px;
+    margin-right: 1px;
+}
+
+.fast
+{
+   display: flex;
+    justify-content:space-between;
+    padding: 5px;
+    margin-left: -19px;
+    margin-right: 1px;
+}
+
+.features-Solutions
+ {
+   background-image: url("https://bluearchio.com/wp-content/uploads/2020/06/bg1-home3.png") ;
+    height: 32vh;
+    width: 30%;
+   background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    border: 1px solid  #d3d3d3  ; 
+}
+
+.features-Solutions
+ {
+   display: flex;
+    justify-content:space-around;
+    margin-right: 2rem;
+    margin-left: -1.3rem;
+ }
+
+  .features-Solutions:hover
+ {
+   
+   transform:scale(1);
+  box-shadow: 0px 0px 15px 0px;
+  background-color: white;
+
+ }
+
+.icon-Solutions
+ {
+   width: 74px;
+    height: 84px;
+    padding-left:5rem;
+    padding-top: 3rem;
+ }
+
+.Solutions-head h5
+ {
+  margin-top: 8rem;
+    font-size: 20px;
+    margin-left: -14rem;
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    color: #1E3667;;
+}
+
+ 
+
+.Solutions
+{
+  margin-left: 1.2rem; 
+}
+
+.features-Creative
+ {
+   background-image: url("https://bluearchio.com/wp-content/uploads/2020/06/bg1-home3.png") ;
+    height: 32vh;
+    width: 30%;
+   background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    
+    border: 1px solid  #d3d3d3  ; 
+}
+
+.features-Creative
+ {
+   display: flex;
+    justify-content:space-around;
+    margin-right: 2rem;
+    margin-left: -1.3rem;
+ }
+
+  .features-Creative:hover
+ {
+  transform:scale(1);
+  box-shadow: 0px 0px 15px 0px;
+  background-color: white;
+}
+
+.icon-Creative
+ {
+   width: 74px;
+    height: 84px;
+    padding-left:7rem;
+    padding-top: 3rem;
+ }
+
+.Creative-head h5
+ {
+  margin-top: 8rem;
+    font-size: 20px;
+    margin-left: -11.3rem;
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    color: #1E3667;
+}
+
+ 
+
+.Creative
+{
+  margin-left: 1.2rem; 
+}
+ 
+.features-Designers
+ {
+   background-image: url("https://bluearchio.com/wp-content/uploads/2020/06/bg1-home3.png") ;
+    height: 32vh;
+    width: 30%;
+   background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    border: 1px solid  #d3d3d3  ; 
+}
+
+.features-Designers
+ {
+   display: flex;
+    justify-content:space-around;
+    margin-right: 2rem;
+    margin-left: .7rem;
+ }
+
+  .features-Designers:hover
+ {
+  transform:scale(1);
+  box-shadow: 0px 0px 15px 0px;
+  background-color: white;
+}
+
+.icon-Designers
+ {
+   width: 74px;
+    height: 84px;
+    padding-left:7rem;
+    padding-top: 3rem;
+ }
+
+.Designers-head h5
+ {
+  margin-top: 8rem;
+    font-size: 20px;
+    margin-left: -15rem;
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    color: #1E3667;
+}
+
+.Designers
+{
+  margin-left: 1.2rem; 
+
+}
+ 
+.SERVICES2 span
+{
+   font-family: "Josefin Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: #9f9e9e;
+     margin-left: 7rem;
+    letter-spacing: 0.5px;
+}
+
+.SERVICES2 h2
+ {
+   margin-bottom: 0;
+    line-height: 12px;
+    margin-left: 7rem;
+        font-weight: 400;
+         font-size: 40px;
+         color: #2E8B57;
+         font-family: "Titillium Web", sans-serif;
+ }
+
+.dot2  
+{
+   margin-right: 10rem;
+    color: #2E8B57;
+    font-weight: 500;
+    font-size: 25px;
+    margin-left: 7rem;
+    line-height: 3;
+}
+
+.SERVICES2
+ {
+   padding-top: 8rem;
+
+ }
+
+.view
+ {
+  margin-left: 60rem;
+  margin-top: -10.5rem;
+  font-size: 19px;
+   background-color:#1E3667;
+   width: 10.5%;
+   height: 9.5vh;
+   cursor: pointer;
+
+ }
+
+.view h6
+ {
+  padding-top: 1.5rem;
+    padding-left: 2rem;
+    color: #fff;
+ }
+
+.view:hover
+ {
+  background-color: #197926;
+ }
+
+.SERVICES2BLOG
+ {
+  margin-top: 3%;
+ }
+
+
+.SERVICES2BLOG span
+{
+   font-family: "Josefin Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: #9f9e9e;
+     margin-left: 7rem;
+    letter-spacing: 0.5px;
+}
+
+.SERVICES2BLOG h2
+ {
+   margin-bottom: 0;
+    line-height: 12px;
+    margin-left: 7rem;
+        font-weight: 400;
+         font-size: 40px;
+         color: #2E8B57;
+         font-family: "Titillium Web", sans-serif;
+ }
+
+.dot3  
+{
+   margin-right: 10rem;
+    color: #2E8B57;
+    font-weight: 500;
+    font-size: 25px;
+    margin-left: 7rem;
+    line-height: 3;
+}
+
+.SERVICES2
+ {
+   padding-top: 8rem;
+
+ }
+
+.view
+ {
+  margin-left: 60rem;
+  margin-top: -10.5rem;
+  font-size: 19px;
+   background-color:#1E3667;
+   width: 10.5%;
+   height: 9.5vh;
+   cursor: pointer;
+
+ }
+ 
+.icon-font 
+ {
+   margin-left: 6rem;
+   background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #f4f4f4;
+    margin-top: 3.5rem;
+    cursor:pointer;
+ }
+
+.font
+ {
+   display: flex;
+  }
+
+.sudip img:hover
+ {
+   transform: scale(1.1); 
+   cursor: pointer;
+ }  
+
+  .and h5:hover
+ {
+   color: #FFFFF7;
+ }
+
+ .Hotelh6:hover
+ {
+   color: #FFFFF7;
+ }
+
+ .Room h5:hover
+ {
+   color: #FFFFF7;
+ }
+.and
+ {
+  margin-top:202px;
+    font-size: 28px;
+    margin-left: -37rem;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    color: #1a1a1a;
+    line-height: 1;
+    color: #FFFFF7;
+    cursor: pointer;
+   }
+ 
+.and h5
+ {
+   color: #9f9e9e;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 0;
+      margin-top: 16px;
+    cursor: pointer;
+ }
+
+ .icon-ground
+ {
+     margin-right: 6rem;
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #f4f4f4;
+    margin-top: 3.5rem;
+}
+
+.ground
+ {
+   display: flex;
+ }
+ 
+ .icon-ground-head :hover 
+ {
+ color: #197926;
+
+ }
+
+.Hotel h6
+ {
+   color: #9f9e9e;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 0;
+    cursor: pointer;
+ }
+ 
+.Hotel h6:hover
+ {
+  color: #FFFFF7; ;
+ }
+.Hotel
+ {
+  margin-top: 214px;
+    font-size: 28px;
+    margin-left: -581px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    color: #1a1a1a;
+    line-height: .2;
+    color: #FFFFF7;
+    cursor: pointer;
+ }
+
+.Room
+ {
+  margin-top: 274px;
+    font-size: 28px;
+    margin-left:-581px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    color: #1a1a1a;
+    line-height: .2;
+    color: #FFFFF7;
+    cursor: pointer;
+}
+ 
+ .Room h5
+ {
+  color: #9f9e9e;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 0;
+   margin-top:32px;
+    cursor: pointer;
+ }
+
+
+.Neo
+ {
+  margin-top:262px;
+    font-size: 28px;
+    margin-left: -37rem;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    color: #1a1a1a;
+    line-height: 1;
+    color: #FFFFF7;
+    cursor: pointer;
+ }
+ 
+.Neo h5
+ {
+   color: #9f9e9e;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 0;
+      margin-top: 16px;
+    cursor: pointer;
+ }
+
+.Neo h5:hover
+ {
+  color: #FFFFF7;
+ }
+
+.icon-font-head:hover 
+ {
+ color: #197926;
+ }
+ 
+.classical-living
+ {
+    margin-left: 6rem;
+   background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #f4f4f4;
+    margin-top: 3.5rem;
+ }
+
+.living
+ {
+   display: flex;
+   margin-top: -3.8rem;
+ }
+  
+ .Interior
+{
+  margin-left: 1.2rem; 
+}
+
+.green-living
+ {
+    margin-right: 6rem;
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #f4f4f4;
+    margin-top: 3.5rem;
+}
+
+.green
+ {
+   display: flex;
+ }
+ 
+  
+
+.slider-img
+
+ {
+      background-image: url(https://theratio.s3.amazonaws.com/images/bg1-home1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 47vh;
+    
+    margin-top: -24px;
+ 
+    background-image: linear-gradient(280deg, #197926 0%, #1E3667 100%);
+    width: auto;
+
+ }
+
+.Get
+ {
+      margin-left: -47px;
+ }
+
+
+
+.Get h2
+{
+  color: #FFFFFF;
+  padding: 89px 0px 12px 148px;
+  font-size: 41px;
+  line-height: .8;
+   font-weight: 400;
+    font-family: "Titillium Web", sans-serif;
+}
+
+.Get p
+ {
+  margin: -28px 0px 0px 150px;
+  color: #A9A9A9;
+  font-family: "Raleway", sans-serif;
+  font-size: 17px;
+  }
+
+.line
+
+ {
+   line-height: .3;
+    margin-left:150px;
+    margin-top: 18px;
+    font-family: "Raleway", sans-serif;
+    font-size: 17px;
+    color: #A9A9A9;
+}
+
+.TOUCH
+ {
+  margin-left: 69rem;
+    margin-top: -110px;
+    font-size: 12px;
+   background: #fff;
+    color: #1a1a1a;
+    width: 12%;
+    height: 8.5vh;
+    cursor: pointer;
+    line-height: 1.42857143;
+    letter-spacing: 0.5px;
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 600;
+}
+
+.TOUCH h4
+ {
+  padding-top: 15px;
+  padding-left: 2rem;
+ }
+
+.TOUCH:hover
+ {
+  background-color: #197926;
+ }
+
+.News
+ {
+  margin-left: 60rem;
+  margin-top: -10.5rem;
+  font-size: 19px;
+   background-color:#1E3667;
+   width: 10.5%;
+   height: 9.5vh;
+   cursor: pointer;
+  }
+
+.News h6
+ {
+  padding-top: 1.5rem;
+    padding-left: 2rem;
+    color: #fff;
+ }
+
+.News:hover
+ {
+  background-color: #197926;
+ }
+
+.sudip
+ {
+        margin-left: 28px;
+            margin-top: 93px;  
+
+ }
+
+.nav10i
+{
+  background-color:white;
+  display: flex;
+        justify-content:center;
+     padding-bottom:70px;
+     margin-left:370px;
+         box-shadow: 0.1px 0.1px 1.1px 0.1px;
+    padding:22px;
+     margin-right: 1rem;
+     height: 400px; 
+
+}
+
+.nav10i:hover
+ {
+ box-shadow: 0px 0px 0px 1px;
+ }
+
+.nav10ii
+{
+  background-color:white;
+  padding-bottom:70px;
+box-shadow: 0.1px 0.1px 1.1px 0.1px;
+      padding: 22px;
+       margin-right: 1rem;
+       height: 400px;
+         
+}
+.nav10ii:hover
+{
+   box-shadow: 0px 0px 0px 1px;
+}
+
+.nav10iii
+{
+  background-color:white;
+padding-bottom:70px;
+margin-right:370px;
+ box-shadow: 0.1px 0.1px 1.1px 0.1px;
+    padding: 22px;
+    margin-right: 1rem;
+    height: 400px;
+ }
+
+.nav10iii:hover
+ {
+  box-shadow: 0px 0px 0px 1px;
+ }
+
+.tag10
+{
+  padding-top:0px;
+  display: flex;
+  font-size:24px;
+  color: #197926;
+  margin-bottom: 15px;
+    line-height: 36px;
+    font-weight: 400;
+cursor:pointer;
+  font-family: "Titillium Web", sans-serif;
+}
+
+.effect
+{
+  display: flex;
+   justify-content:center;
+  margin-bottom: 5px;
+  color: #555555;
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    line-height: 1.875;
+    font-weight: 400;
+}
+
+h4
+{
+  line-height: 2;
+}
+
+.post
+{
+  display: flex;
+        justify-content:space-between;
+        margin-bottom: 1rem;
+    }
+ 
+.post img
+{
+   height: auto;
+    max-width: 100%;
+    background-color: rgba(51, 51, 51, 0.61);
+   cursor:pointer;
+}
+
+.nav10
+  {
+    margin-top: 8rem;
+   margin-left: -19rem;
+    margin-right: 6rem;
+  }
+
+.nav10 ol  
+{
+    list-style: none;
+     display:flex;
+     justify-content:space-around;
+      color:  black;
+}
+
+.post-box
+ {
+  font-family: "Titillium Web", sans-serif;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.6px;
+    line-height: 1.1;
+    display: inline-block;
+    color: #fff;
+    background: #1a1a1a;
+    padding: 8px 10px;
+    margin-bottom: 10px;
+    position: relative;
+     
+    top: -17px;
+ }
+
+.post-box:hover
+ {
+  background: #f5f5f5;
+    color: #1a1a1a;
+    cursor:pointer;
+ }
+.before
+ {
+     font-size: 20px;
+    line-height: 1;
+    margin-left: 7.5rem;
+    margin-top: -1rem;
+    color: #1a1a1a;
+  }
+ 
+.entry-date
+ {
+  padding-top: 23px;
+  font-family: "Josefin Sans", sans-serif;
+    text-transform: uppercase;
+    font-size: 14px;
+        margin-bottom: -23px;
+    color: #9f9e9e;
+ }
+
+.Blue
+ {
+       padding-left: 144px;
+    margin-top: -1.2rem;
+ }
+
+.entry-date:hover
+ {
+  color: #454545;
+  cursor:pointer;
+ }
+
+
+.footer1
+    {
+      line-height: 2rem;
+    }
+
+
+.footer
+    {
+
+    background-color: transparent;background-image: linear-gradient(280deg, #197926 0%, #1E3667 100%);
+    height:61.2vh;
+
+}
+.footer1 
+
+ {
+  background-image: url(https://theratio.s3.amazonaws.com/images/bg1-home1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+   background-size: cover;
+   width: 100%;
+   height: 48vh;
+    opacity:.55;
+   margin-top: -1.8rem;
+}
+
+ol
+{
+list-style:none;
+}
+
+.BlueArchio img
+{
+  margin-top: -3%;
+padding-left:17rem; 
+}
+
+.BlueArchio h2
+{
+padding-left: 241px;
+    margin-top: -7px;
+color: #FFFFFF;
+    font-family: "Antonio", Sans-serif;
+    font-size: 26px;
+    font-weight: 600;
+    letter-spacing: -2px;
+}
+
+.footer1i
+{
+  margin: 20px;
+}
+
+.footer1iv 
+{
+  font-size:1.1rem;
+  color: #B1B0B0;
+  margin-left: 95px;
+    width: 100%;
+    font-family: "Raleway", sans-serif;
+    color: #B1B0B0;
+}
+
+.footer1iv .bold
+{
+  padding-right: 1%;
+} 
+.icon img
+{
+   height: 30px;
+    width: 29px;
+    margin: 3px;
+    border-radius: 25px 25px 25px 25px;
+    padding: 3px;
+    margin: 0% 13% 0% -12%;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #FFFFFF;
+   }
+
+.icon
+{
+  padding-left: 40%;
+  background-color: #02010100; 
+}
+
+.footer1ii
+{
+  hight:auto;
+  width:3.3rem;
+}
+
+.footer1iii
+{
+  color: white;
+}
+
+.footer1
+{
+  
+ justify-content: space-arround;
+    display: flex;
+    padding: 45px 0px 40px 0px;
+    margin-top: 85px;
+}
+
+ul
+{
+  margin-left:-32%;
+  list-style:none;
+}
+
+.footer li:hover
+{
+color:white;
+}
+
+.footer1iii
+{
+  width:20rem;
+  color: white;
+}
+
+.footer1v
+{
+    text-decoration: none !important;
+    color:black !important;
+   
+   border: 1px;
+    background-color:whitesmoke;
+    font-size: 15px;
+    padding: 20px 45px 20px 45px;
+    line-height: 3rem;
+    cursor: pointer;
+}
+
+.footer1v:hover
+{
+   color:#1E3667 !important;
+}
+
+.footer2
+{
+padding-left: 76%;
+    color: #FFF;
+    padding-top: 6px;
+    margin-top: -27.5%;
+    line-height: 2;
+}
+
+.footer2i
+{
+  padding-left: 40%;
+  color: #FFFFFF;
+    font-family: "Titillium Web", Sans-serif;
+    font-weight: 600;
+}
+
+.footer2i .us
+{
+  margin: -19.2% 0% 0% 37.5%;
+}
+
+.footer2ii
+ {
+   padding-bottom: 0.4rem;
+   font-size: 18px;
+    margin: -2% 0% 0% -7.5%;
+  }
+
+  .footer2ii img
+  {
+     margin: 0% 2% -1% 0%;
+     width: 4.7%;
+  }
+
+.footer2iii
+{
+     padding-left: 30%;
+      padding-bottom: 0.4rem;
+       font-size: 17px;
+       font-family: "Raleway", Sans-serif;
+       color: var(--e-global-color-1c2ddba );
+}
+
+.footer2iii img
+{
+  margin: 0% 6% -1% -10%;
+    width: 7%;
+}
+
+.footer2iii .com
+{
+  margin: -13.5% 0% 0% 33%;
+    font-size: 17px;
+}
+
+.footer2iv
+{
+ padding-left: 22%;
+      padding-bottom: 0.4rem;
+       font-size: 17px;
+       font-family: "Raleway", Sans-serif;
+       color: var(--e-global-color-1c2ddba );
+}
+.footer2iv img
+{
+     margin: 0% 5% -1% -15%;
+    width: 7%;
+}
+
+.footer2iv .pmc
+{
+      margin: -11.5% 0% 0% 26.8%;
+  font-size: 17px;
+}
+
+.footer2iv .com
+{
+      margin: -11.2% 0% 0% 51.3%;
+  font-size: 17px;
+}
+
+.footer2v
+{
+  padding-left: 24.5%;
+      padding-bottom: 1.8rem;
+       font-size: 17px;
+       font-family: "Raleway", Sans-serif;
+       color: var(--e-global-color-1c2ddba );
+}
+
+.footer2v img
+{
+ margin: 0% 3% -1% -17%;
+    width: 7%;
+ }
+
+.footer2v .ph
+{
+ margin: -11.5% 0% 0% 35%;
+}
+
+.footer2vi
+ {
+  padding-left: 5px;
+    height: 7vh;
+    margin-top: 0%;
+}
+
+.footer2vi a
+{
+  margin-top: 1 rem;
+  margin-left:7.5rem;
+}
+
+.footer3
+{
+ justify-content: center;
+    display: flex;
+    background-color: black;
+    height: 10vh;
+    margin-top: -0.2%;
+  }
+
+.footer3i
+ {
+  text-align: center;
+    color: #AAAAAA;
+    font-size: 14px;
+    letter-spacing: 0.9px;
+    padding: 15px;
+}
+
+.footer3 span
+{
+color: white;
+}
+
+.footer3 span:hover
+{
+  color: rgba(255, 255, 255, 0.5);
+
+}
+
+.back-to-top
+ {
+ 	 background: #9f9e9e;
+    color: #fff;
+    border: 0 none;
+    cursor: pointer;
+    width: 38px;
+    height: 42px;
+    line-height: 37px;
+    text-align: center;
+     margin:-6% 0% 0% 94%;
+    opacity: 2.1;
+    }
+
+.symbol
+{
+ font-size: 30px;
+ font-weight: bold;
+} 
+
+@media (max-width: 1024px)
+{
+
+.nav4 
+ {
+ 	height: 25vh;
+ }
+
+
+.nav4i
+{
+	margin-left:74%;
+}	
+   .nav4i p {
+    margin-left: -323%;
+    font-size: 20px;
+    margin-top: 65%;
+    text-align: center;
+    line-height: 36px;
+  }
+
+}
+
+@media only screen and (max-width:767px)
+{
+  .logo1{
+
+   
+    margin-left: -840%;
+     height: auto;  
+    margin-top: 638%;
+        width: 518%;
+}
+
+.Sayantan 
+{
+	
+}
+
+
+}
+
+@media only screen and (max-width:767px)
+{ 
+ .nav4iii p{
+ 	height: auto;
+    margin-top: 318px;
+    margin-left: -286px;
+ }
+
+.nav4i b{
+        font-size: 20px;
+
+}
+ 
+
+
+.nav1 h1 {
+	    margin-left: 8%;
+    margin-top: 4%;
+    font-size: 23px;
+    line-height: 1.2;
+    margin-bottom: 6%;
+
+
+}
+.nav4iii
+{
+  display: none;
+}
+
+.text {
+	    margin-top:7%;
+
+}
+
+.banner
+ {
+  height: 66vh;
+ }
+
+ .nav5i img {
+ 	height: 35.5vh;
+    margin-left: -16%;
+    margin-top: 22%;
+    width: 100%;
+ }
+
+.nav5ii{
+	margin: -3% 0% 0% 55%;
+}
+.COMPANY 
+ {
+ 	margin-left: -70%;
+    font-size: 12px;
+ }
+.nav5ii h3
+ {
+ 	font-size: 28px;
+    margin-left: -110%;
+    margin-top: 9%;
+    letter-spacing: .1px;
+ }
+.dot1{
+	 margin-left: -51%;
+    line-height: 4;
+
+}
+.line1 {
+	   margin-left: -116%;
+    width: 211%;
+    font-size: 19px;
+    line-height: 1.4;
+    margin-top: 22%;
+    font-family: var(--e-global-typography-text-font-family ), Sans-serif;
+
+
+}
+
+.nav5iii
+{
+ margin-top: -43%;
+
+}
+.nav5iii a
+{
+ margin-left:-382%;
+     padding: 14px 24px 15px 15px;
+     line-height: 13;
+
+
+}
+
+@media only screen and (max-width:767px)
+{
+
+.nav6 {
+	    display: contents;
+}
+.SERVICES span{
+      margin-left: 138px;
+    line-height: 3.5;
+
+}
+.SERVICES h2 {
+  margin-left: 100px;
+    font-size: 26px;
+    line-height: 0px;
+    
+    margin-top: 15px;
+}
+
+
+.dot{
+margin-left: 165px;
+     
+    font-weight: 540;
+}
+ 
+.features-Interior{
+ flex-direction: column;
+    margin-left: 4%;
+    padding: 3px 174px 49px 44px;
+    height: 102vh;
+
+}
+ 
+  .Interior-head p{
+       font-size: 16px;
+    width: 280px;
+    line-height: 1.875;
+    font-weight: 500;
+    color: #555555;
+    text-align: center;
+    padding: 27% 0% 0% 48%;
+}
+
+  .Interior-head h5 {
+
+ margin: 102% 0% 0% -131%;
+     
+     
+    font-size: 23px;
+  }
+
+  .Interior-head h5 span 
+  {
+    margin: 0% 0% 0% 24%;
+    line-height: 1.8;
+}
+
+.icon-Interior
+{
+  margin: -20% 0% 0% -75%;
+}
+
+.Construction-head p
+{
+   font-size: 16px;
+    width: 280px;
+    line-height: 1.875;
+    font-weight: 500;
+    color: #555555;
+    text-align: center;
+    padding: 27% 0% 0% 48%;
+}
+
+
+.Construction-head h5 {
+
+margin:102% 0% 0% -102%;
+    width: 169%;
+     
+    font-size: 23px;
+  }
+
+  .Construction-head h5 span 
+  {
+    margin: 0% 0% 0% 13%;
+     
+    line-height: 1.8;
+}
+
+ 
+
+.features-Exterior
+ {
+   margin-left: 54%;
+    padding: 3px 174px 49px 44px;
+    height: 110vh;
+    margin-top: 67%;
+    margin-left: -33%;
+   
+  }  
+
+  .icon-Exterior
+  {
+       margin-left: 22%;
+
+  }
+
+.Exterior-head h5 
+ {
+ 	    margin: 46% 0% 0% 11%;
+    width: 169%;
+ }
+
+
+
+.Exterior-head p
+ {
+ 	font-size: 16px;
+    width: 275px;
+    line-height: 1.875;
+    font-weight: 500;
+    color: #555555;
+    text-align: center;
+   padding-left: 14%;
+    margin: 5% 0% 0% -11%;
+ }
+
+.features-Landscape
+{ flex-direction: column;
+    margin-left: 2.5%;
+    padding: 3px 175px 85px 43px;
+    height: 102vh;
+    margin-top: 284%;
+        
+}
+
+.Landscape-head p
+ {
+ 	font-size: 16px;
+    width: 280px;
+    line-height: 1.875;
+    font-weight: 500;
+    color: #555555;
+    text-align: center;
+    padding: 28% 0% 0% 61%;
+ }
+
+.Landscape-head h5
+ {
+   width: 175%;
+    margin: 116% 0% 0% -113%;
+    font-size: 22px;
+ }
+
+
+.Landscape-head h5 span
+{
+  padding: 0% 0% 0% 31%;
+    line-height: 1.8;
+}
+
+
+
+.icon-Landscape
+ {
+ 	margin-left: -78%;
+ }
+
+.features-Construction
+ {
+ 	  
+    padding: 3px 174px 49px 44px;
+    height: 107vh;
+     
+    margin-left: -27%;
+    margin-top:25%;
+ }
+
+.icon-Construction
+ {
+ 	margin-left: -67%;
+ }
+
+ .blue h2
+  {
+  	margin: 260% 0% 0% 23%;
+    font-size: 27px;
+    line-height: 38px;
+     
+
+  }
+
+}
+@media only screen and (max-width:767px)
+{
+
+.fast
+ {
+  
+ 	flex-direction: column;
+ }
+
+ .features-Planning
+  {
+  	margin-top: 11%;
+    padding: 5px 173px 52px 44px;
+    height: 14vh;
+  }
+
+  .Quality-Planning
+  {
+    margin-top: 0%;
+    padding: 5px 173px 52px 44px;
+    height: 14vh;
+  }
+
+
+.icon-Planning
+ {
+ 	margin: -23% 0% 0% -18%;
+ }
+
+.Planning-head h5
+ {
+ 	margin: 124% 0% 0% -150%;
+ }
+
+.features-Designers
+ {
+ 	margin-top: 2.4%;
+    padding: 5px 173px 66px 46px;
+    height: 14vh;
+    margin-left: 11.3%;
+ }
+
+.icon-Designers
+ { 
+ 	margin: -12% 0% 0% 100%;
+
+ }
+
+.Designers-head h5 
+ {
+       margin: 124% 0% 0% -165%;
+ }
+
+ .features-Creative 
+  {
+  	margin-top: 2.4%;
+    padding: 5px 173px 50px 46px;
+    height: 14vh;
+    margin-left: 11.3%;
+  }
+
+  .icon-Creative 
+   {
+   	margin: -19% 0% 0% 84%;
+   }
+
+   .Creative-head h5
+    {
+    	 margin: 134% 0% 0% -156%;
+    }
+
+.features-Solutions
+ {
+ 	margin-top: 2.4%;
+    padding: 5px 173px 55px 46px;
+    height: 14vh;
+    margin-left: 11.3%;
+
+ }
+
+ .icon-Solutions
+  {
+    margin:-20% 0% 0% 122%;
+  }
+
+  .Solutions-head h5 
+   {
+     margin: 118% 0% 0% -162%;
+   }
+
+
+.features-Technical
+ {
+ 	margin-top: 0.4%;
+    padding: 5px 173px 55px 46px;
+    height: 14vh;
+    margin-left: 11.3%;
+
+ }
+
+.icon-Technical 
+  {
+    margin:-18% 0% 0% -16%;
+  }
+
+
+
+.Technical-head h5
+   {
+     margin: 120% 0% 0% -116%;
+   }
+
+
+.features-Team 
+
+ {
+ 	margin-top: 2.4%;
+    padding: 5px 173px 55px 46px;
+    height: 14vh;
+    margin-left: 11.3%;
+
+ }
+
+.icon-Team 
+  {
+    margin:-18% 0% 0% -16%;
+  }
+
+
+
+.Team-head h5
+   {
+     margin: 120% 0% 0% -116%;
+   }
+
+
+.features-Finishing 
+ {
+ 	margin-top: 2.4%;
+    padding: 5px 173px 55px 46px;
+    height: 14vh;
+    margin-left: 11.3%;
+
+ }
+
+.icon-Finishing
+  {
+    margin:-18% 0% 0% -16%;
+  }
+
+
+
+.Finishing-head h5
+   {
+     margin: 120% 0% 0% -116%;
+   }
+
+
+ 
+
+ .features-Friendly
+
+ {
+ 	margin-top: 2.4%;
+    padding: 5px 173px 38px 46px;
+    height: 14vh;
+    margin-left: 11.3%;
+
+ }
+
+
+
+.icon-Friendly
+  {
+    margin:-18% 0% 0% -16%;
+  }
+
+
+
+.Friendly-head h5
+   {
+     margin: 120% 0% 0% -116%;
+   }
+
+ 
+
+ .SERVICES2 
+ {
+  margin-top: -23%;
+    margin-left: 8%;
+ }
+
+.SERVICES2 span
+ {
+ 	font-size: 12px;
+  padding-left: 4%;
+ }
+
+
+.SERVICES2 h2
+ {
+ 	font-size: 27px;
+    line-height: 38px;
+    margin-left: -2.1%;
+    letter-spacing: -.8px;
+    margin-top: 3%;
+
+ }
+
+
+.dot2 
+ { 
+  margin-top:-4%;
+ }
+
+.view 
+ {
+ 	margin: 5% -31% -1% 27%;
+    padding: 1% 13% 0% 7%;
+    height: 4.8vh;
+ }
+
+.view h6 
+ {
+ 	padding-top: 34%;
+    margin: 4% -87% 17% -93%;
+
+ }
+
+ .font
+  {
+  	flex-direction: column;
+  }
+
+  .living
+   {
+   		flex-direction: column;
+   }
+
+    
+.font-img2
+ {
+   margin-top: -66%;
+ }
+
+ .font-img3
+  {
+   margin-top: -50%;
+  }
+
+.font-img4
+ {
+ 	margin-top: -81%;
+ }
+.sudip
+ {
+    margin-left: 2.3%;
+    margin-top: 5%;
+}
+.sudip img
+ {
+    width: 98%;
+    height: 23vh;
+}
+
+.slider
+ {
+ 	margin-top: -81.8%;
+    width: 100%;
+ }
+
+.slider-img
+ {
+  height: 50vh;
+ }
+ .Get h2
+  {
+  	font-size: 34px;
+    line-height: 121.2%;
+    padding: 18% 0% 0% 19%;
+  }
+
+.Get p
+ {
+ 	text-align: center;
+    margin: -2% 0% 1% 11%;
+     
+    line-height: 1.8;
+ }
+
+ .line
+  {
+  	    margin-left: 48%;
+  }
+.TOUCH 
+ {
+   margin: 14% 0% 0% 37%;
+    padding: 0% 5% 10% 12%;
+    height: 0.5vh;
+ }
+
+.TOUCH h4
+ {
+ 	margin:-9% -10% 0% -108%;
+ }
+
+.SERVICES2BLOG
+ {
+       margin-top: 18%;
+ }
+
+.SERVICES2BLOG span
+ {
+ 	margin-left: 37%;
+ 	font-size: 12px;
+ }
+
+
+ .SERVICES2BLOG h2
+  {
+  	font-size: 27px;
+    line-height: 38px;
+    margin-left:  17.9%;
+    letter-spacing: -.8px;
+    margin-top: 3%;
+
+  }
+
+  .dot3
+   {
+     margin-top:-4%;
+     margin-left: 37%;
+   }
+
+.News
+ {
+   margin: 5% -31% -1% 35%;
+    padding: 0% 13% 0% 2%;
+    height: 4.8vh;
+ }
+
+.News h6 
+ {
+ 	padding-top: 34%;
+    margin: -1% -87% 0%-56%;
+}
+
+}
+
+@media only screen and (max-width: 600px)
+ {
+ 
+
+ .top {
+  display: none;
+
+ }
+
+
+ .topformobile 
+ {
+  
+  box-shadow:0px 0.5px 0.1px 0px;
+  position:fixed;
+
+left:0px;
+right:0px;
+padding-top: 28px;
+    margin-top: -50px;
+     background-color: #1E3667;
+     
+  display: flex;
+    justify-content:space-between;
+ }
+ .aaa {
+  display: flex;
+  justify-content:space-between;
+ }
+
+ 
+.nav10 ol
+{
+   flex-direction: column;
+ }
+
+.nav10i img 
+ {
+   max-width: 105%;
+    margin-left: -2.5%;
+ }
+  
+ .nav10i
+ {
+   margin: 0% 0% 0% 48%;
+    width: 58.5%;
+ }	
+ 
+ .post-box
+  {
+    margin: -8% 0% 0% -2%;
+  }
+
+
+.nav10ii img 
+ {
+   max-width: 105%;
+    margin-left: -2.5%;
+ }
+  
+ .nav10ii
+ {
+   margin: 0% 0% 0% 48%;
+    width: 58.5%;
+ }  
+ 
+ .post-box
+  {
+    margin: -8% 0% 0% -2%;
+  }
+
+
+.nav10iii img 
+ {
+   max-width: 105%;
+    margin-left: -2.5%;
+ }
+  
+ .nav10iii
+ {
+   margin: 0% 0% 0% 48%;
+    width: 58.5%;
+ }  
+ 
+ .post-box
+  {
+    margin: -8% 0% 0% -2%;
+  }
+}
+@media (max-width: 767px)
+{
+ .footer1ii  
+ {
+  margin: -40% 0% 4% -32%;
+    width: 3%;
+ }
+
+.BlueArchio h2
+ {
+  padding: 0% 0% 0% 12%;
+    font-size: 25px;
+    margin-top: -10%;
+ }
+.BlueArchio img
+{
+padding: 0% 0% 3% 58%;
+}
+
+
+
+
+.footer1iv
+ {
+ width: 55.5555%;
+    margin: 1% 0% 0% 4%;
+    line-height: 1.8;
+    font-size: 14px;
+    letter-spacing: 1px;
+ }
+
+
+ .icon img
+ {
+   margin: 5% -2% 29% 3%;
+    padding: 6px;
+ }
+.icon
+{
+  margin: 0% 0% 0% -38%;
+}
+ 
+
+.footer2
+ {
+   margin: -28% 0% 0% -16%;
+ }
+
+ .footer2 ul
+ {
+   margin :2% 0% 0% 1%;
+ }
+
+
+ .footer2i
+  {
+   margin: -296% 0% 0% -31%;
+    width: 58.5%;
+   color: #FFFFFF;
+    font-family: "Titillium Web", Sans-serif;
+    font-weight: 600;
+    font-size: 33px;
+  }
+
+  .footer2i .us
+  {
+    margin: -24% 0% 0% 31%;
+  }
+
+  .footer2ii
+   {
+     
+    line-height: 1.2;
+    width: 87%;
+    margin-left: 3%;
+   }
+
+.footer2ii img
+{
+  
+  margin: 0% 9% -21% -27%;
+    width: 18%;
+}
+
+.footer2iii
+ {
+   margin: 0% 0% 0% -29%;  
+  }   
+     
+ .footer2iii img
+{
+  
+ margin: 0% 9% -24% -26%;
+    width: 18%;
+}
+
+.footer2iii .com
+  {
+    margin: -8% 0% 0% -1%;
+  }
+
+.footer2iv
+{
+   margin: 0% 0% 0% -33%;
+}
+
+.footer2iv img
+ {
+   margin: 0% 0% -22% -10%;
+    width: 18%;
+ }
+
+ .footer2iv .com
+ {
+   margin: -9% 0% 0% 15%;
+ }
+
+.footer2iv .pmc
+{
+  margin: -7% 0% 0% 12%;
+}
+
+.footer2v
+{
+   margin: 0% 0% 0% -40%;
+
+}
+
+.footer2v img
+{
+      margin: 0% 3% -19% -13%;
+    width: 18%;
+     
+}
+
+.footer2v .ph
+{
+  margin: -7% 0% 0% 12%;
+    
+}
+
+.footer2vi  a
+{
+  margin: 0% 0% 0% -22%;
+    padding: 15px
+}
+
+.footer2vi
+{
+      margin-top: 6%;
+}
+.footer3i
+{
+ margin: 3% 0% 0% 4%;
+    line-height: 1.5;
+}
+
+.footer1
+{
+      height: 66vh;
+}
+
+.footer
+{
+  height: 75.2vh;
+}
+
+.back-to-top
+{
+  margin: -18% 0% 0% 81%;
+}
+
+ }
+
+
+
+ 
+
+ 
